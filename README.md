@@ -4,7 +4,7 @@
   <p>
     <a href="https://makhdoombilal.com"><img src="https://img.shields.io/badge/Portfolio-makhdoombilal.com-C8A96E?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     &nbsp;
-    <a href="https://www.upwork.com/freelancers/muhammadbilal7511"><img src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
+    <a href="https://www.upwork.com/freelancers/toptalentofupwork"><img src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
     &nbsp;
     <a href="https://www.fiverr.com/s/VYA7E1m"><img src="https://img.shields.io/badge/Fiverr-4.8%20%2F%205%20Rating-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
     &nbsp;
@@ -110,14 +110,14 @@ I partner with startups and founders to build production-grade software from des
 
 ---
 
-## <img src="https://api.iconify.design/lucide/activity.svg?color=%23C8A96E" width="22" height="22" valign="middle" /> Active In 2026 (Currently Building)
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%23C8A96E" width="22" height="22" valign="middle" /> Active In 2026
 
-These are my active projects and builds for this year:
+These are my active, shipped, and completed builds for this year:
 
 * 🏥 **VivaSiHealth** — Premium mobile app for biohacking & longevity (built using Flutter, Riverpod, and local database storage).
 * 🏠 **StageSnap** — AI-powered virtual staging platform for real estate agents and photographers (Next.js, Supabase, and custom AI image generation models).
 * 📝 **IELTS Evaluator** — AI-driven IELTS writing assessment platform for teachers and students (Next.js, Tailwind, and OpenAI APIs).
-* 📱 **Mission Off Screen** — Advanced parental control and screen-time monitoring application (built with Flutter, Firebase, and native Android background overlay/Accessibility Services).
+* 🎮 **Mission Off Screen** — Gamified parental control and app blocker. When a customized timer ends, it triggers interactive gaming missions and blocks access to other apps until unlocked by a parent's PIN code (built with Flutter, Firebase, and Android Accessibility & Overlay Services).
 
 ---
 
