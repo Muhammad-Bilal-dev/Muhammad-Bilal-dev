@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Muhammad Bilal Banner" style="border-radius: 16px; margin-bottom: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
-
   <h1>Muhammad Bilal</h1>
   
   <p>
@@ -51,7 +49,7 @@ I partner with startups and founders to build production-grade software from des
     </tr>
     <tr>
       <td><b>⚡ Full-Stack SaaS Products</b></td>
-      <td>Authentication, Multi-tenancy, Stripe Subscriptions, Webhooks, Postgre/MySQL</td>
+      <td>Authentication, Multi-tenancy, Stripe Subscriptions, Webhooks, PostgreSQL</td>
       <td>6–10 weeks</td>
     </tr>
   </tbody>
@@ -112,19 +110,6 @@ These are my active builds for this year. Real products solving real problems:
 - 🏥 **VivaSiHealth** — Premium mobile app for biohacking & longevity (built using Flutter, Riverpod, and local database storage).
 - 🏠 **StageSnap** — AI-powered virtual staging platform for real estate agents and photographers (Next.js, Supabase, and custom AI image generation models).
 - 📝 **IELTS Evaluator** — AI-driven IELTS writing assessment platform for teachers and students (Next.js, Tailwind, and OpenAI APIs).
-
----
-
-## 📊 Live GitHub Activity (Auto-Updates)
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Muhammad-Bilal-dev&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=C8A96E&icon_color=C8A96E&text_color=EDEAE3&hide_border=true" alt="Muhammad Bilal's Stats" height="170" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Muhammad-Bilal-dev&layout=compact&theme=transparent&bg_color=0B0F14&title_color=C8A96E&text_color=EDEAE3&hide_border=true&langs_count=8" alt="Top Languages" height="170" style="margin-bottom: 10px;" />
-
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-dev&theme=default&background=0B0F14&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=EDEAE3&dates=EDEAE3&currStreakNum=EDEAE3&sideNums=EDEAE3&hide_border=true" alt="GitHub Streak" width="100%" />
-</div>
 
 ---
 
