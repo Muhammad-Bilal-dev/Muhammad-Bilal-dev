@@ -118,20 +118,12 @@ These are my active builds for this year. Real products solving real problems:
 ## 📊 Live GitHub Activity (Auto-Updates)
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-dev&show_icons=true&theme=default&bg_color=0B0F14&title_color=C8A96E&icon_color=C8A96E&text_color=EDEAE3&hide_border=true" alt="Muhammad Bilal's Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Bilal-dev&layout=compact&theme=default&bg_color=0B0F14&title_color=C8A96E&text_color=EDEAE3&hide_border=true&langs_count=8" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-dev&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=C8A96E&icon_color=C8A96E&text_color=EDEAE3&hide_border=true" alt="Muhammad Bilal's Stats" height="170" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Bilal-dev&layout=compact&theme=transparent&bg_color=0B0F14&title_color=C8A96E&text_color=EDEAE3&hide_border=true&langs_count=8" alt="Top Languages" height="170" style="margin-bottom: 10px;" />
 
-  <br />
+  <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Bilal-dev&theme=default&background=0B0F14&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=EDEAE3&dates=EDEAE3&currStreakNum=EDEAE3&sideNums=EDEAE3&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Bilal-dev&theme=default&background=0B0F14&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=EDEAE3&dates=EDEAE3&currStreakNum=EDEAE3&sideNums=EDEAE3&hide_border=true" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
