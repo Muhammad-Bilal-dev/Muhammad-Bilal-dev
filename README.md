@@ -1,25 +1,27 @@
 <div align="center">
-  <h1>Muhammad Bilal</h1>
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Muhammad+Bilal;Flutter+Mobile+Apps+(iOS+%26+Android);Next.js+Web+Products;Full-Stack+SaaS+%2B+AI+Integration" alt="Typing Greeting" />
+
   <p>
     <a href="https://makhdoombilal.com"><img src="https://img.shields.io/badge/Portfolio-makhdoombilal.com-C8A96E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.upwork.com/freelancers/muhammadbilal7511"><img src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-    <a href="https://www.fiverr.com/s/VYA7E1m"><img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+    <a href="https://www.fiverr.com/s/VYA7E1m"><img src="https://img.shields.io/badge/Fiverr-4.8%20%2F%205%20Rating-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
     <a href="https://www.linkedin.com/in/muhammad-bilal-233273323"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=600&lines=Flutter+Mobile+Apps+(iOS+%26+Android);Next.js+Web+Products;Full-Stack+SaaS+%2B+AI+Integration;Clean+Code+%26+Scalable+Architecture" alt="Typing Animation" />
-
-  <br />
+  <p>
+    <a href="mailto:makhdoombilal99@gmail.com"><img src="https://img.shields.io/badge/Email-makhdoombilal99%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Response_Time-%3C_1_Hour-emerald?style=flat-square&logo=clock&logoColor=white" alt="Response Time" />
+    <img src="https://img.shields.io/badge/Focus-Active_for_Hire_2026-C8A96E?style=flat-square&logo=target&logoColor=white" alt="Active focus" />
+  </p>
 
   <p>
-    <b>25+ Shipped Projects</b> · <b>100% Upwork Job Success</b> · <b>Global Clients</b> · <b>Top Rated Developer</b>
+    <b>25+ Shipped Projects</b> · <b>Global Clients</b> · <b>Top Rated Developer</b>
   </p>
 
   <hr style="border: 1px solid #1f242c;" />
 </div>
 
-## 🚀 Professional Services
+## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23C8A96E" width="22" height="22" valign="middle" /> Professional Services
 
 I partner with startups and founders to build production-grade software from design to launch in **4 to 8 weeks**.
 
@@ -57,7 +59,7 @@ I partner with startups and founders to build production-grade software from des
 
 ---
 
-## 🛠️ Expertise & Tech Stack
+## <img src="https://api.iconify.design/lucide/cpu.svg?color=%23C8A96E" width="22" height="22" valign="middle" /> Expertise & Tech Stack
 
 <table width="100%">
   <tr>
@@ -103,13 +105,14 @@ I partner with startups and founders to build production-grade software from des
 
 ---
 
-## ⚡ Active In 2026 (Currently Building)
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%23C8A96E" width="22" height="22" valign="middle" /> Active In 2026 (Currently Building)
 
-These are my active builds for this year. Real products solving real problems:
+These are my active projects and builds for this year:
 
-- 🏥 **VivaSiHealth** — Premium mobile app for biohacking & longevity (built using Flutter, Riverpod, and local database storage).
-- 🏠 **StageSnap** — AI-powered virtual staging platform for real estate agents and photographers (Next.js, Supabase, and custom AI image generation models).
-- 📝 **IELTS Evaluator** — AI-driven IELTS writing assessment platform for teachers and students (Next.js, Tailwind, and OpenAI APIs).
+* 🏥 **VivaSiHealth** — Premium mobile app for biohacking & longevity (built using Flutter, Riverpod, and local database storage).
+* 🏠 **StageSnap** — AI-powered virtual staging platform for real estate agents and photographers (Next.js, Supabase, and custom AI image generation models).
+* 📝 **IELTS Evaluator** — AI-driven IELTS writing assessment platform for teachers and students (Next.js, Tailwind, and OpenAI APIs).
+* 📱 **Mission Off Screen** — Advanced parental control and screen-time monitoring application (built with Flutter, Firebase, and native Android background overlay/Accessibility Services).
 
 ---
 
@@ -118,7 +121,7 @@ These are my active builds for this year. Real products solving real problems:
   <p>I am active and currently accepting new contracts for 2026. Let's build your mobile app or SaaS.</p>
   
   <p>
-    <a href="https://makhdoombilal.com/#contact"><img src="https://img.shields.io/badge/Start_a_Project-C8A96E?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a Project" /></a>
+    <a href="mailto:makhdoombilal99@gmail.com"><img src="https://img.shields.io/badge/Start_a_Project-C8A96E?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a Project" /></a>
     <a href="https://makhdoombilal.com"><img src="https://img.shields.io/badge/View_Full_Portfolio-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=C8A96E" alt="View Portfolio" /></a>
   </p>
 </div>
