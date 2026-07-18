@@ -118,8 +118,8 @@ These are my active builds for this year. Real products solving real problems:
 ## 📊 Live GitHub Activity (Auto-Updates)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Bilal-dev&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=C8A96E&icon_color=C8A96E&text_color=EDEAE3&hide_border=true" alt="Muhammad Bilal's Stats" height="170" style="margin-right: 10px; margin-bottom: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Bilal-dev&layout=compact&theme=transparent&bg_color=0B0F14&title_color=C8A96E&text_color=EDEAE3&hide_border=true&langs_count=8" alt="Top Languages" height="170" style="margin-bottom: 10px;" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Muhammad-Bilal-dev&show_icons=true&theme=transparent&bg_color=0B0F14&title_color=C8A96E&icon_color=C8A96E&text_color=EDEAE3&hide_border=true" alt="Muhammad Bilal's Stats" height="170" style="margin-right: 10px; margin-bottom: 10px;" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Muhammad-Bilal-dev&layout=compact&theme=transparent&bg_color=0B0F14&title_color=C8A96E&text_color=EDEAE3&hide_border=true&langs_count=8" alt="Top Languages" height="170" style="margin-bottom: 10px;" />
 
   <br /><br />
 
