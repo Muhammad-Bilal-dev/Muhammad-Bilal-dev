@@ -1,16 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Muhammad+Bilal;Flutter+Mobile+Apps+(iOS+%26+Android);Next.js+Web+Products;Full-Stack+SaaS+%2B+AI+Integration" alt="Typing Greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B%20Hi%2C%20I%27m%20Muhammad%20Bilal%3BFlutter%20Mobile%20Apps%20%28iOS%20%26%20Android%29%3BNext.js%20Web%20Products%3BFull-Stack%20SaaS%20%2B%20AI%20Integration" alt="Typing Greeting" />
 
   <p>
-    <a href="https://makhdoombilal.com"><img src="https://img.shields.io/badge/Portfolio-makhdoombilal.com-C8A96E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.upwork.com/freelancers/muhammadbilal7511"><img src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-    <a href="https://www.fiverr.com/s/VYA7E1m"><img src="https://img.shields.io/badge/Fiverr-4.8%20%2F%205%20Rating-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
-    <a href="https://www.linkedin.com/in/muhammad-bilal-233273323"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://makhdoombilal.com"><img src="https://img.shields.io/badge/Portfolio-makhdoombilal.com-C8A96E?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    &nbsp;
+    <a href="https://www.upwork.com/freelancers/muhammadbilal7511"><img src="https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
+    &nbsp;
+    <a href="https://www.fiverr.com/s/VYA7E1m"><img src="https://img.shields.io/badge/Fiverr-4.8%20%2F%205%20Rating-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/muhammad-bilal-233273323"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 
   <p>
     <a href="mailto:makhdoombilal99@gmail.com"><img src="https://img.shields.io/badge/Email-makhdoombilal99%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Response_Time-%3C_1_Hour-emerald?style=flat-square&logo=clock&logoColor=white" alt="Response Time" />
+    &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Focus-Active_for_Hire_2026-C8A96E?style=flat-square&logo=target&logoColor=white" alt="Active focus" />
   </p>
 
